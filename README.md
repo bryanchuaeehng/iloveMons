@@ -55,7 +55,7 @@ and the latest version of Git from [here](https://git-scm.com/downloads)
 
 Run:
 ```shell
-git clone https://github.com/Tuxemon/Tuxemon.git
+git clone https://github.com/bryanchuaeehng/iloveMons.git
 cd Tuxemon
 py -3 -m pip install -U -r requirements.txt
 py -3 run_tuxemon.py
