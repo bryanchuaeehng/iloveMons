@@ -1779,7 +1779,7 @@ msgid "combat_horde_swap"
 msgstr "{target} emerges from the horde!"
 
 msgid "combat_monster_choice"
-msgstr "What will {name} do?"
+msgstr "What Data Structure is used \n to implement a Max-Heap \n Algorithm?"
 
 msgid "combat_player_choice"
 msgstr "What will {player} do?"
@@ -2379,7 +2379,7 @@ msgid "boulder_description"
 msgstr "The user shelters beneath a rocky shell."
 
 msgid "boulder"
-msgstr "Boulder"
+msgstr "Stack"
 
 msgid "breath_description"
 msgstr "The user exhales a cloud of sleep-inducing gas."
@@ -3229,7 +3229,7 @@ msgid "mudslide_description"
 msgstr "The user creates a massive mudslide that engulfs the opponent."
 
 msgid "mudslide"
-msgstr "Mudslide"
+msgstr "Priority Queue"
 
 msgid "mystic_blending_description"
 msgstr "The user becomes one with its surroundings, healing itself."
@@ -3466,7 +3466,7 @@ msgstr ""
 "physical blow."
 
 msgid "ram"
-msgstr "Ram"
+msgstr "Queue"
 
 msgid "refresh_description"
 msgstr ""
@@ -4274,7 +4274,7 @@ msgid "routee_description"
 msgstr "Do not swim downstream of the pump site!"
 
 msgid "route1_description"
-msgstr "Take care!"
+msgstr "Stacks are LIFO. \n Queues are FIFO. \n Priority Queues are Queues that dequeue and enqueue based on a priority system."
 
 msgid "route2_description"
 msgstr "The historic path!"
@@ -9328,7 +9328,7 @@ msgid "hp"
 msgstr "Hit Points"
 
 msgid "melee"
-msgstr "Melee"
+msgstr "ihateqh"
 
 msgid "ranged"
 msgstr "Ranged"
@@ -13292,8 +13292,8 @@ msgstr ""
 
 msgid "spyder_route1_beachcomber"
 msgstr ""
-"To run, just hold down the SHIFT key. \n"
-" Look! I'm free as an ELOFLY!"
+"Stacks are just like how I stack my clothes! \n"
+" Queues are just like how I queue in a line!"
 
 msgid "spyder_cottonhouse1_homemaker"
 msgstr ""
@@ -13346,7 +13346,7 @@ msgstr ""
 " Oops, I've said too much. "
 
 msgid "spyder_route1_routesign"
-msgstr "Route 1. Take care!"
+msgstr "Stacks are LIFO. \n Queues are FIFO. \n Priority Queues are Queues that dequeue and enqueue based on a priority system."
 
 msgid "spyder_flowerhouse1_tv"
 msgstr "Two mons are having a fight. \"I'm not your friend, Budaye\", one says."
